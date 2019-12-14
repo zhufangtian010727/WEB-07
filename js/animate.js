@@ -1,4 +1,4 @@
-window.onload = function(){
+
 			var box = document.getElementById('box');
 			var oNavlist = document.getElementById('nav').children;
 			var slider = document.getElementById('slider');
@@ -121,4 +121,4 @@ window.onload = function(){
 					oNavlist[index-1].className = 'active';
 				}
 			}
-		}
+		
